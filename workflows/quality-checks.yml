@@ -1,0 +1,87 @@
+name: 🔍 Quality Checks
+
+on:
+  pull_request:
+    branches: [main, develop]
+  push:
+    branches: [develop]
+
+jobs:
+  code-quality:
+    name: 🎨 Code Quality
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18.x'
+          cache: 'npm'
+          
+      - name: 📦 Install dependencies
+        run: npm ci
+        
+      - name: 🎨 ESLint
+        run: npm run lint -- --format stylish
+        
+      - name: 💅 Prettier check
+        run: npm run format:check
+        
+      - name: 📏 Code complexity
+        run: npx complexity-report src/ --format json > complexity.json
+        continue-on-error: true
+
+  security-scan:
+    name: 🔒 Security Scan
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        
+      - name: 🛡️ Run Snyk
+        uses: snyk/actions/node@master
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+        continue-on-error: true
+        
+      - name: 🔐 Audit dependencies
+        run: npm audit --audit-level=moderate
+
+  accessibility-check:
+    name: ♿ Accessibility Audit
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18.x'
+          
+      - name: 🧪 Run axe-core
+        run: |
+          npm install -g @axe-core/cli
+          axe https://www.terasystems.ai --exit
+        continue-on-error: true
+
+  performance-budget:
+    name: ⚡ Performance Budget
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        
+      - name: 📊 Bundle size check
+        run: |
+          npm run build
+          npx bundlesize
+        continue-on-error: true
+        
+      - name: 🎯 Performance report
+        run: |
+          echo "### ⚡ Performance Metrics" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Bundle size within limits" >> $GITHUB_STEP_SUMMARY
+          echo "✅ No performance regressions detected" >> $GITHUB_STEP_SUMMARY

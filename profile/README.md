@@ -87,36 +87,6 @@
 </tr>
 </table>
 
----
-
-## 📊 **PROVEN TRACK RECORD**
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  🏥  HEALTHCARE IMPACT                                        ║
-║  • 12+ Hospitals Deployed (US, Europe, Asia)                 ║
-║  • 50,000+ Patients Protected by AI Predictions              ║
-║  • 95% Accuracy in Critical Care Decision Support            ║
-║  • FDA 510(k) Validation Pending                             ║
-╠═══════════════════════════════════════════════════════════════╣
-║  📝  RESEARCH EXCELLENCE                                      ║
-║  • 5+ Peer-Reviewed Publications (Frontiers, IEEE)           ║
-║  • 3 Patents Pending (AI/ML, Security, NLP)                  ║
-║  • 100+ Citations Across Academic Literature                 ║
-║  • Collaboration: Stanford, MIT, Oxford                      ║
-╠═══════════════════════════════════════════════════════════════╣
-║  💼  ENTERPRISE ADOPTION                                      ║
-║  • Fortune 500 Clients (Healthcare, Finance, Gov)            ║
-║  • 99.99% SLA Uptime Guarantee                               ║
-║  • SOC 2 Type II Certified                                   ║
-║  • HIPAA, GDPR, ISO 27001 Compliant                          ║
-╠═══════════════════════════════════════════════════════════════╣
-║  ⭐  TEAM EXPERTISE                                           ║
-║  • 50+ Years Combined Experience                             ║
-║  • PhDs in ML, CS, Biomedical Engineering                    ║
-║  • Ex: Google Brain, DeepMind, Stanford AI Lab               ║
-║  • Active Research in Bayesian Deep Learning                 ║
-╚═══════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -159,17 +129,18 @@
 
 ## 📚 **FEATURED PUBLICATIONS**
 
-1. **"Bayesian Neural Networks for Medical Diagnosis with Uncertainty Quantification"**  
-   *Frontiers in Artificial Intelligence (2024)* | [Read Paper →](https://doi.org/example)
+1. Application of Bayesian Neural Networks in Healthcare: Three Case Studies
+Machine Learning and Knowledge Extraction 2024-11-16 | Journal article DOI: 10.3390/make6040127
    
-2. **"Cryptographic Document Verification at Scale: TrustPDF Architecture"**  
-   *IEEE Security & Privacy (2024)* | [Read Paper →](https://doi.org/example)
+2.Hybrid Naïve Bayes Models for Scam Detection: Comparative Insights From Email and Financial Fraud
+IEEE Access2025 | Journal article DOI: 10.1109/ACCESS.2025.3569216
    
-3. **"Retrieval-Augmented Generation with Bayesian Uncertainty for Scientific Literature"**  
-   *NeurIPS Workshop on Foundation Models (2023)* | [Read Paper →](https://doi.org/example)
-   
-4. **"Multi-Language NLP for Global Healthcare: Challenges and Solutions"**  
-   *Journal of Biomedical Informatics (2023)* | [Read Paper →](https://doi.org/example)
+3.Enhancing autonomous systems with bayesian neural networks: a probabilistic framework for navigation and decision-making
+Frontiers in Built Environment 2025-05-07 | Journal article | Funding acquisition, Data curation, Visualization, Writing - review & editing
+
+4. A Comparative Study of Optimization Techniques on the Rosenbrock Function
+Open Journal of Optimization 2024-11 | Journal article | Funding acquisition, Visualization, Writing - review & editing, Project administration
+DOI: 10.4236/ojop.2024.133004
 
 📖 **[View All Publications →](https://www.terasystems.ai/publications)**
 
@@ -294,28 +265,6 @@ We welcome contributions from the global AI community!
 
 </div>
 
----
-
-## 🏆 **AWARDS & RECOGNITION**
-
-- 🥇 **Best AI Healthcare Solution** - Digital Health Summit 2024
-- 🥈 **Innovation in NLP** - ACL Conference 2024
-- 🏅 **Top 50 AI Startups** - TechCrunch Disrupt 2024
-- ⭐ **SOC 2 Type II Certified** - Security Audit 2024
-- 🎖️ **FDA Breakthrough Device Designation** - Pending 2024
-
----
-
-## 📰 **IN THE NEWS**
-
-> *"TeraSystemsAI is redefining what's possible in AI-driven healthcare, combining rigorous research with production-ready systems."*  
-> — **MIT Technology Review** (March 2024)
-
-> *"The TrustPDF system represents a paradigm shift in document security, leveraging blockchain and cryptography at unprecedented scale."*  
-> — **IEEE Spectrum** (February 2024)
-
-> *"Their Bayesian RAG approach solves the hallucination problem while maintaining uncertainty quantification—a game changer for scientific research."*  
-> — **Nature Machine Intelligence** (January 2024)
 
 ---
 
@@ -357,7 +306,7 @@ We take security seriously. All our systems are:
 ## 📞 **GET IN TOUCH**
 
 ### **For Business Inquiries**
-📧 **Email**: contact@terasystems.ai  
+📧 **Email**: admin@terasystems.ai  
 💼 **LinkedIn**: [linkedin.com/company/terasystemsai](https://linkedin.com/company/terasystemsai)  
 🌐 **Website**: [www.terasystems.ai](https://www.terasystems.ai)  
 📅 **Book Demo**: [calendly.com/terasystemsai](https://calendly.com/terasystemsai)
@@ -371,7 +320,7 @@ We take security seriously. All our systems are:
 ### **For Research Collaboration**
 🔬 **Research Lab**: research@terasystems.ai  
 📚 **Publications**: [scholar.google.com/terasystemsai](https://scholar.google.com)  
-🤝 **Partnerships**: partnerships@terasystems.ai
+🤝 **Partnerships**: research@terasystems.ai
 
 ---
 

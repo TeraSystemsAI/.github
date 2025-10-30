@@ -19,6 +19,10 @@
 [![Research](https://img.shields.io/badge/📚_Research-Publications-28A45E?style=for-the-badge)](https://www.terasystems.ai/research)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/terasystemsai)
 [![Status](https://img.shields.io/badge/🚀_Status-Production_Ready-28A45E?style=for-the-badge)](https://www.terasystems.ai)
+[![Funding](https://img.shields.io/badge/💰_Seeking-Seed_Funding-FF6B35?style=for-the-badge)](https://calendly.com/terasystemsai)
+
+### 🎯 **CURRENT STATUS: SEEKING $150K SEED FUNDING**
+*Proven traction • Production systems • Research excellence • Ready to scale*
 
 ---
 
@@ -94,11 +98,12 @@
 ## 🛠️ **TECHNOLOGY STACK**
 
 ### **Core AI/ML**
-![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow_2.15-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch_2.0-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-0.4-orange?style=flat)
+![Python](https://img.shields.io/badge/Python_3.12+-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow_2.16-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch_2.1-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-0.4.28-orange?style=flat)
 ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ### **NLP & Language**
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-yellow?style=flat)
@@ -265,10 +270,10 @@ We welcome contributions from the global AI community!
 
 ### **Development Activity (Last 30 Days)**
 
-![Commits](https://img.shields.io/badge/Commits-247-00BCD4?style=for-the-badge)
-![Contributors](https://img.shields.io/badge/Contributors-23-28A45E?style=for-the-badge)
-![Pull_Requests](https://img.shields.io/badge/PRs_Merged-45-00E5FF?style=for-the-badge)
-![Issues_Closed](https://img.shields.io/badge/Issues_Closed-67-4CC381?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-374-00BCD4?style=for-the-badge)
+![Contributors](https://img.shields.io/badge/Contributors-31-28A45E?style=for-the-badge)
+![Pull_Requests](https://img.shields.io/badge/PRs_Merged-68-00E5FF?style=for-the-badge)
+![Issues_Closed](https://img.shields.io/badge/Issues_Closed-89-4CC381?style=for-the-badge)
 
 ### **Community Growth**
 
@@ -276,12 +281,38 @@ We welcome contributions from the global AI community!
 ![GitHub Stars](https://img.shields.io/github/stars/TeraSystemsAI?style=social&label=Total%20Stars)
 ![Twitter](https://img.shields.io/twitter/follow/terasystemsai?style=social)
 
+### **Recent Milestones (October 2025)**
+
+🎉 **New**: Professional website launched at [terasystems.ai](https://www.terasystems.ai)  
+🏆 **Achievement**: Enhanced GitHub profile with comprehensive business model  
+📊 **Growth**: Increased development activity by 50% this quarter  
+🔬 **Research**: 2 new publications submitted for peer review  
+💼 **Business**: Actively seeking $150K seed funding for scale-up  
+
 </div>
 
 
 ---
 
-## 💼 **BUSINESS & PARTNERSHIPS**
+## � **LATEST ANNOUNCEMENTS**
+
+### 🚀 **Now Available: Professional Website & Enhanced GitHub Presence**
+- **New Website**: [www.terasystems.ai](https://www.terasystems.ai) - Modern, responsive showcase of our capabilities
+- **Enhanced GitHub Profile**: Comprehensive business model, founder information, and research impact metrics
+- **Updated Documentation**: Improved quickstart guides and API examples across all repositories
+
+### 💰 **SEEKING SEED FUNDING: $150,000**
+**Investment Opportunity** - Series Seed Round Open
+- **Use of Funds**: Product development, security infrastructure, engineering support, marketing
+- **Traction**: 12+ hospital partnerships, 50K+ patients served, 15+ publications
+- **Market Opportunity**: Multi-billion dollar AI healthcare, security, and NLP markets
+- **ROI Potential**: B2B licensing model with high margins and scalable SaaS platform
+
+📅 **[Schedule Investor Meeting →](https://calendly.com/terasystemsai)**
+
+---
+
+## �💼 **BUSINESS & PARTNERSHIPS**
 
 ### **Current Traction & Achievements**
 - 🏥 **Healthcare AI**: 12+ hospital partnerships, 50K+ patients served
@@ -331,6 +362,7 @@ We welcome contributions from the global AI community!
 - **CVPR 2024**: "Multi-Modal Medical Imaging with Bayesian CNNs"
 
 ---
+
 
 ## 🔒 **SECURITY & COMPLIANCE**
 
@@ -394,8 +426,10 @@ We take security seriously. All our systems are:
 
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/footer-wave.svg" width="100%"/>
 
-**© 2024 TeraSystemsAI. Licensed under Apache 2.0.**
+**© 2025 TeraSystemsAI. Licensed under Apache 2.0.**
 
 *Made with ❤️ and 🤖 by researchers, for researchers.*
+
+**Latest Update**: October 30, 2025 - Enhanced with business model & funding information
 
 </div>

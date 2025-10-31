@@ -43,7 +43,7 @@
 <p><b>Bayesian Neural Networks</b></p>
 <p>Medical predictions with uncertainty quantification</p>
 <p>✅ <b>12+ Hospitals</b><br>✅ <b>50K+ Patients</b><br>✅ <b>FDA Validated</b></p>
-<a href="https://github.com/TeraSystemsAI/healthcare-ai">View Repo →</a>
+<a href="https://github.com/TeraSystemsAI/healthcare-ai">View Repo →(coming soon)</a>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/icon-security.svg" width="80" height="80"/><br>
@@ -51,7 +51,7 @@
 <p><b>Cryptographic Verification</b></p>
 <p>Document integrity & authenticity at scale</p>
 <p>✅ <b>Military Grade</b><br>✅ <b>Zero Trust</b><br>✅ <b>Blockchain</b></p>
-<a href="https://github.com/TeraSystemsAI/trustpdf">View Repo →</a>
+<a href="https://github.com/TeraSystemsAI/trustpdf">View Repo →(coming soon)</a>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/icon-research.svg" width="80" height="80"/><br>
@@ -59,7 +59,7 @@
 <p><b>Bayesian RAG System</b></p>
 <p>Automated literature review & insights</p>
 <p>✅ <b>5+ Publications</b><br>✅ <b>10x Faster</b><br>✅ <b>Multi-Modal</b></p>
-<a href="https://github.com/TeraSystemsAI/research-assistant">View Repo →</a>
+<a href="https://github.com/TeraSystemsAI/research-assistant">View Repo → (coming soon)</a>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@
 <p><b>Real-Time Analytics</b></p>
 <p>Data-driven decision support systems</p>
 <p>✅ <b>1M+ Events/sec</b><br>✅ <b>Global CDN</b><br>✅ <b>Edge Computing</b></p>
-<a href="https://github.com/TeraSystemsAI/web-intelligence">View Repo →</a>
+<a href="https://github.com/TeraSystemsAI/web-intelligence">View Repo →(coming soon)</a>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/icon-generative.svg" width="80" height="80"/><br>
@@ -85,7 +85,7 @@
 <p><b>Content + Code Generation</b></p>
 <p>Creative automation for enterprises</p>
 <p>✅ <b>GPT-4 Powered</b><br>✅ <b>Custom Models</b><br>✅ <b>API Ready</b></p>
-<a href="https://github.com/TeraSystemsAI/generative-ai">View Repo →</a>
+<a href="https://github.com/TeraSystemsAI/generative-ai">View Repo →(coming soon)</a>
 </td>
 </tr>
 </table>

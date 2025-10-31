@@ -355,14 +355,14 @@ We welcome contributions from the global AI community!
 Our mission is to advance AI and ML infrastructure that bridges research and production globally — building scalable, ethical, and high-performance intelligent systems for enterprises and research institutions worldwide.
 
 We aim to create technology that empowers innovation across continents, enabling collaboration between data scientists, engineers, and researchers to solve real-world challenges.
-```
-We are working to be 
+
+       We are working to be 
+
+
 🇺🇸 USA (HQ)          │  San Francisco, CA  
 🇬🇧 Europe            │  London, UK  
 🇸🇬 Asia Pacific      │  Singapore  
 🇨🇦 North America     │  Toronto, CA  
-
-```
 
 ---
 

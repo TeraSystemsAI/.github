@@ -357,10 +357,11 @@ Our mission is to advance AI and ML infrastructure that bridges research and pro
 We aim to create technology that empowers innovation across continents, enabling collaboration between data scientists, engineers, and researchers to solve real-world challenges.
 ```
 We are working to be 
-🇺🇸 USA (HQ)          │  San Francisco, CA
-🇬🇧 Europe            │  London, UK
-🇸🇬 Asia Pacific      │  Singapore
-🇨🇦 North America     │  Toronto, CA
+🇺🇸 USA (HQ)          │  San Francisco, CA  
+🇬🇧 Europe            │  London, UK  
+🇸🇬 Asia Pacific      │  Singapore  
+🇨🇦 North America     │  Toronto, CA  
+
 ```
 
 ---

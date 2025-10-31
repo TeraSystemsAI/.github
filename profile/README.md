@@ -283,9 +283,7 @@ We welcome contributions from the global AI community!
 ![GitHub Stars](https://img.shields.io/github/stars/TeraSystemsAI?style=social&label=Total%20Stars)
 ![Twitter](https://img.shields.io/twitter/follow/terasystemsai?style=social)
 
-### **Recent Milestones (October 2025)**
-
-🎉 **New**: Professional website launched at [terasystems.ai](https://www.terasystems.ai)  
+### **Recent Milestones (October 2025)** 
 🏆 **Achievement**: Enhanced GitHub profile with comprehensive business model  
 📊 **Growth**: Increased development activity by 50% this quarter  
 🔬 **Research**: 2 new publications submitted for peer review  
@@ -296,32 +294,14 @@ We welcome contributions from the global AI community!
 
 ---
 
-## � **LATEST ANNOUNCEMENTS**
-
-### 🚀 **Now Available: Professional Website & Enhanced GitHub Presence**
-- **New Website**: [www.terasystems.ai](https://www.terasystems.ai) - Modern, responsive showcase of our capabilities
-- **Enhanced GitHub Profile**: Comprehensive business model, founder information, and research impact metrics
-- **Updated Documentation**: Improved quickstart guides and API examples across all repositories
-
-### 💰 **SEEKING SEED FUNDING: $150,000**
+## 💰 **SEEKING SEED FUNDING: $150,000**
 **Investment Opportunity** - Series Seed Round Open
 - **Use of Funds**: Product development, security infrastructure, engineering support, marketing
 - **Traction**: 12+ hospital partnerships, 50K+ patients served, 15+ publications
 - **Market Opportunity**: Multi-billion dollar AI healthcare, security, and NLP markets
 - **ROI Potential**: B2B licensing model with high margins and scalable SaaS platform
 
-📅 **[Schedule Investor Meeting →](https://calendly.com/terasystemsai)**
-
 ---
-
-## �💼 **BUSINESS & PARTNERSHIPS**
-
-### **Current Traction & Achievements**
-- 🏥 **Healthcare AI**: 12+ hospital partnerships, 50K+ patients served
-- 🔒 **TrustPDF Security**: Military-grade deployments, zero security breaches
-- 📚 **Research Impact**: 15+ peer-reviewed publications, 450+ citations
-- 🤝 **Enterprise Clients**: Fortune 500 companies, government agencies
-- 🌟 **Recognition**: FDA validation, SOC 2 certification, ISO 27001 compliance
 
 ### **Founder & Leadership**
 **Dr. Lebede Ngartera** - Founder & Chief Architect  
@@ -342,40 +322,9 @@ We welcome contributions from the global AI community!
 - **Q1 2026**: Open pilot programs for Healthcare AI and TrustPDF
 - **Q2 2026**: Scale to SaaS platform for NLP & Web Intelligence
 - **Q3 2026**: International expansion and enterprise partnerships
-- **Q4 2026**: Advanced multi-modal AI capabilities
+- **Q4 2026**: Advanced multi-modal AI capabilitie
 
 ---
-
-## 🎓 **EDUCATIONAL RESOURCES**
-
-### **📺 Video Tutorials**
-- [Getting Started with Healthcare AI](https://youtube.com/terasystemsai) (10 min)
-- [Building Secure Document Systems](https://youtube.com/terasystemsai) (15 min)
-- [Research Assistant Deep Dive](https://youtube.com/terasystemsai) (20 min)
-
-### **📝 Blog Posts**
-- [Bayesian Deep Learning Explained](https://blog.terasystems.ai)
-- [Zero Trust Architecture for AI Systems](https://blog.terasystems.ai)
-- [The Future of Multi-Modal AI](https://blog.terasystems.ai)
-
-### **🎤 Talks & Presentations**
-- **NeurIPS 2024**: "Uncertainty in Production AI Systems"
-- **ACL 2024**: "Cross-Lingual Transfer Learning at Scale"
-- **CVPR 2024**: "Multi-Modal Medical Imaging with Bayesian CNNs"
-
----
-
-
-## 🔒 **SECURITY & COMPLIANCE**
-
-We take security seriously. All our systems are:
-
-- ✅ **SOC 2 Type II Certified** (Annual audit)
-- ✅ **HIPAA Compliant** (Healthcare data)
-- ✅ **GDPR Compliant** (EU data protection)
-- ✅ **ISO 27001 Certified** (Information security)
-- ✅ **Penetration Tested** (Quarterly)
-- ✅ **Bug Bounty Program** (Up to $10,000 rewards)
 
 🔐 **[Security Policy →](https://github.com/TeraSystemsAI/.github/security/policy)**  
 🐛 **[Report Vulnerability →](https://security.terasystems.ai)**
@@ -397,8 +346,7 @@ We take security seriously. All our systems are:
 💡 **Discussions**: [GitHub Discussions](https://github.com/orgs/TeraSystemsAI/discussions)
 
 ### **For Research Collaboration**
-🔬 **Research Lab**: research@terasystems.ai  
-📚 **Publications**: [scholar.google.com/terasystemsai](https://scholar.google.com)  
+🔬 **Research Lab**: research@terasystems.ai    
 🤝 **Partnerships**: research@terasystems.ai
 
 ---

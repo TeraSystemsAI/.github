@@ -148,9 +148,10 @@
    📄 DOI: [10.1109/ACCESS.2025.3569216](https://doi.org/10.1109/ACCESS.2025.3569216)  
    🏆 **Impact**: 99.7% accuracy in fraud detection, deployed in production systems
    
-3. **Enhancing Autonomous Systems with Bayesian Neural Networks: A Probabilistic Framework**  
-   *Frontiers in Built Environment* • 2025-05-07  
-   🏆 **Impact**: Uncertainty quantification for safety-critical applications
+3. **Enhancing Autonomous Systems with Bayesian Neural Networks: A Probabilistic Framework**
+   *Frontiers in Built Environment**, 2025-05-07
+🏆 Impact: Uncertainty quantification for safety-critical applications
+🔗 DOI: https://doi.org/10.3389/fbuil.2025.1597255
    
 4. **A Comparative Study of Optimization Techniques on the Rosenbrock Function**  
    *Open Journal of Optimization* • 2024-11  

@@ -21,7 +21,6 @@
 [![Status](https://img.shields.io/badge/🚀_Status-Production_Ready-28A45E?style=for-the-badge)](https://www.terasystems.ai)
 [![Funding](https://img.shields.io/badge/💰_Seeking-Seed_Funding-FF6B35?style=for-the-badge)](https://calendly.com/terasystemsai)
 
-### 🎯 **CURRENT STATUS: SEEKING $150K SEED FUNDING**
 *Proven traction • Production systems • Research excellence • Ready to scale*
 
 ---

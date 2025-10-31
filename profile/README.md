@@ -69,7 +69,7 @@
 <p><b>Multi-Language Processing</b></p>
 <p>100+ languages, real-time translation</p>
 <p>✅ <b>Fortune 500</b><br>✅ <b>99.9% Uptime</b><br>✅ <b>SOC 2 Compliant</b></p>
-<a href="https://github.com/TeraSystemsAI/enterprise-nlp">View Repo →</a>
+<a href="https://github.com/TeraSystemsAI/enterprise-nlp">View Repo →(coming soon</a>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/icon-web.svg" width="80" height="80"/><br>

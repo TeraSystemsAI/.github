@@ -15,9 +15,9 @@
 
 ### Transforming Theory Into Measurable Impact Since 2020
 
-[![Website](https://img.shields.io/badge/🌐_Website-terasystems.ai-00BCD4?style=for-the-badge)](https://www.terasystems.ai)
-[![Research](https://img.shields.io/badge/📚_Research-Publications-28A45E?style=for-the-badge)](https://www.terasystems.ai/research)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/terasystemsai)
+[![Website](https://img.shields.io/badge/🌐_Website-terasystems.ai-00BCD4?style=for-the-badge)](https://www.terasystems.ai) — (in development)
+[![Research](https://img.shields.io/badge/📚_Research-Publications-28A45E?style=for-the-badge)](https://www.terasystems.ai/research) — (in development)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/terasystemsai)  — *(coming soon)*
 [![Status](https://img.shields.io/badge/🚀_Status-Production_Ready-28A45E?style=for-the-badge)](https://www.terasystems.ai)
 [![Funding](https://img.shields.io/badge/💰_Seeking-Seed_Funding-FF6B35?style=for-the-badge)](https://calendly.com/terasystemsai)
 
@@ -159,9 +159,9 @@
    🏆 **Impact**: Novel optimization approaches for complex AI model training
 
 ### **Research Metrics**
-![Publications](https://img.shields.io/badge/Publications-15+-28A45E?style=flat&logo=googlescholar)
-![Citations](https://img.shields.io/badge/Citations-450+-00BCD4?style=flat&logo=googlescholar)
-![H_Index](https://img.shields.io/badge/H--Index-12-FF6B35?style=flat&logo=googlescholar)
+![Publications](https://img.shields.io/badge/Publications-15+-28A45E?style=flat&logo=googlescholar)  — *(coming soon)*
+![Citations](https://img.shields.io/badge/Citations-450+-00BCD4?style=flat&logo=googlescholar)  — *(coming soon)*
+![H_Index](https://img.shields.io/badge/H--Index-12-FF6B35?style=flat&logo=googlescholar)  — *(coming soon)*
 
 📖 **[View All Publications →](https://www.terasystems.ai/publications)**
 
@@ -285,7 +285,7 @@ We welcome contributions from the global AI community!
 ![Twitter](https://img.shields.io/twitter/follow/terasystemsai?style=social)
 
 ### **Recent Milestones (October 2025)** 
-🏆 **Achievement**: Enhanced GitHub profile with comprehensive business model  
+🏆 **Achievement**: Enhanced GitHub profile with a comprehensive business model  
 📊 **Growth**: Increased development activity by 50% this quarter  
 🔬 **Research**: 2 new publications submitted for peer review  
 💼 **Business**: Actively seeking $150K seed funding for scale-up  
@@ -327,8 +327,8 @@ We welcome contributions from the global AI community!
 
 ---
 
-🔐 **[Security Policy →](https://github.com/TeraSystemsAI/.github/security/policy)**  
-🐛 **[Report Vulnerability →](https://security.terasystems.ai)**
+🔐 **[Security Policy →](https://github.com/TeraSystemsAI/.github/security/policy)**   — *(coming soon)*
+🐛 **[Report Vulnerability →](https://security.terasystems.ai)**  — *(coming soon)*
 
 ---
 
@@ -336,15 +336,15 @@ We welcome contributions from the global AI community!
 
 ### **For Business Inquiries**
 📧 **Email**: admin@terasystems.ai  
-💼 **LinkedIn**: [linkedin.com/company/terasystemsai](https://linkedin.com/company/terasystemsai)  
-🌐 **Website**: [www.terasystems.ai](https://www.terasystems.ai)  
-📅 **Book Demo**: [calendly.com/terasystemsai](https://calendly.com/terasystemsai)
+💼 **LinkedIn:** [linkedin.com/company/terasystemsai](https://linkedin.com/company/terasystemsai) — *(coming soon)*
+🌐 **Website**: [www.terasystems.ai](https://www.terasystems.ai) — currently in active development.
+📅 **Book Demo**: [calendly.com/terasystemsai](https://calendly.com/terasystemsai)  — *(coming soon)*
 
 ### **For Technical Support**
-💬 **Discord**: [discord.gg/terasystemsai](https://discord.gg/terasystemsai)  
-📖 **Documentation**: [docs.terasystems.ai](https://docs.terasystems.ai)  
+💬 **Discord**: [discord.gg/terasystemsai](https://discord.gg/terasystemsai)  — *(coming soon)*
+📖 **Documentation**: [docs.terasystems.ai](https://docs.terasystems.ai)   — *(coming soon)*
 🐛 **Issues**: [GitHub Issues](https://github.com/TeraSystemsAI)  
-💡 **Discussions**: [GitHub Discussions](https://github.com/orgs/TeraSystemsAI/discussions)
+💡 **Discussions**: [GitHub Discussions](https://github.com/orgs/TeraSystemsAI/discussions)  — *(coming soon)*
 
 ### **For Research Collaboration**
 🔬 **Research Lab**: research@terasystems.ai    
@@ -375,7 +375,7 @@ We aim to create technology that empowers innovation across continents, enabling
 
 [![Contribute](https://img.shields.io/badge/💻_Start_Contributing-00BCD4?style=for-the-badge)](https://github.com/TeraSystemsAI)
 [![Star](https://img.shields.io/badge/⭐_Star_Our_Repos-28A45E?style=for-the-badge)](https://github.com/TeraSystemsAI)
-[![Follow](https://img.shields.io/badge/👥_Follow_Us-0077B5?style=for-the-badge)](https://linkedin.com/company/terasystemsai)
+[![Follow](https://img.shields.io/badge/👥_LinkedIn_(Coming_Soon)-808080?style=for-the-badge)](https://linkedin.com/company/terasystemsai)
 
 ---
 

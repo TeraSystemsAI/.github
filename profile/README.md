@@ -15,9 +15,9 @@
 
 ### Transforming Theory Into Measurable Impact Since 2020
 
-[![Website](https://img.shields.io/badge/🌐_Website-terasystems.ai-00BCD4?style=for-the-badge)](https://www.terasystems.ai) — (in development)
-[![Research](https://img.shields.io/badge/📚_Research-Publications-28A45E?style=for-the-badge)](https://www.terasystems.ai/research) — (in development)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/terasystemsai)  — *(coming soon)*
+[![Website](https://img.shields.io/badge/🌐_Website-terasystems.ai-00BCD4?style=for-the-badge)](https://www.terasystems.ai) - (in development)
+[![Research](https://img.shields.io/badge/📚_Research-Publications-28A45E?style=for-the-badge)](https://www.terasystems.ai/research) -  (in development)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/terasystemsai)  - *(coming soon)*
 [![Status](https://img.shields.io/badge/🚀_Status-Production_Ready-28A45E?style=for-the-badge)](https://www.terasystems.ai)
 [![Funding](https://img.shields.io/badge/💰_Seeking-Seed_Funding-FF6B35?style=for-the-badge)](https://calendly.com/terasystemsai)
 
@@ -27,7 +27,7 @@
 
 ## 🎯 **MISSION STATEMENT**
 
-> **We architect complete AI systems that solve real-world problems** — from Bayesian Neural Networks saving lives in emergency departments, to cryptographic security protecting sensitive documents, to NLP engines accelerating scientific breakthroughs across 6 integrated platforms.
+> **We architect complete AI systems that solve real-world problems**, from Bayesian Neural Networks saving lives in emergency departments, to cryptographic security protecting sensitive documents, to NLP engines accelerating scientific breakthroughs across 6 integrated platforms.
 
 **Vision:** *Democratize access to enterprise-grade AI while maintaining the highest standards of security, ethics, and scientific rigor.*
 
@@ -352,7 +352,7 @@ We welcome contributions from the global AI community!
 ---
 
 ## 🌍 **GLOBAL PRESENCE**
-Our mission is to advance AI and ML infrastructure that bridges research and production globally — building scalable, ethical, and high-performance intelligent systems for enterprises and research institutions worldwide.
+Our mission is to advance AI and ML infrastructure that bridges research and production globally - building scalable, ethical, and high-performance intelligent systems for enterprises and research institutions worldwide.
 
 We aim to create technology that empowers innovation across continents, enabling collaboration between data scientists, engineers, and researchers to solve real-world challenges.
 

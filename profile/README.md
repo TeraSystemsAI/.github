@@ -166,7 +166,7 @@
 
 ---
 
-## 🚀 **QUICKSTART GUIDES**
+##  **QUICKSTART GUIDES**
 
 ### **For Developers**
 

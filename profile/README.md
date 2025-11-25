@@ -11,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/hero-banner.svg" alt="TeraSystemsAI - The Intelligent Systems Ecosystem" width="100%"/>
 
-# 🧠 **THE INTELLIGENT SYSTEMS ECOSYSTEM**
+#  **THE INTELLIGENT SYSTEMS ECOSYSTEM**
 
 ### Transforming Theory Into Measurable Impact Since 2020
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 **MISSION STATEMENT**
+##  **MISSION STATEMENT**
 
 > **We architect complete AI systems that solve real-world problems**, from Bayesian Neural Networks saving lives in emergency departments, to cryptographic security protecting sensitive documents, to NLP engines accelerating scientific breakthroughs across 6 integrated platforms.
 

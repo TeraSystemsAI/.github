@@ -13,13 +13,13 @@
 
 #  **THE INTELLIGENT SYSTEMS ECOSYSTEM**
 
-### Transforming Theory Into Measurable Impact Since 2020
+### Transforming Theory Into Measurable Impact
 
 [![Website](https://img.shields.io/badge/🌐_Website-terasystems.ai-00BCD4?style=for-the-badge)](https://www.terasystems.ai) - (in development)
 [![Research](https://img.shields.io/badge/📚_Research-Publications-28A45E?style=for-the-badge)](https://www.terasystems.ai/research) -  (in development)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/terasystemsai)  - *(coming soon)*
-[![Status](https://img.shields.io/badge/🚀_Status-Production_Ready-28A45E?style=for-the-badge)](https://www.terasystems.ai)
-[![Funding](https://img.shields.io/badge/💰_Seeking-Seed_Funding-FF6B35?style=for-the-badge)](https://calendly.com/terasystemsai)
+[![LinkedIn](https://img.shields.io/badge/_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/terasystemsai)  - *(coming soon)*
+[![Status](https://img.shields.io/badge/_Status-Production_Ready-28A45E?style=for-the-badge)](https://www.terasystems.ai)
+[![Funding](https://img.shields.io/badge/_Seeking-Seed_Funding-FF6B35?style=for-the-badge)](https://calendly.com/terasystemsai)
 
 *Proven traction • Production systems • Research excellence • Ready to scale*
 
@@ -39,18 +39,18 @@
 <tr>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/icon-healthcare.svg" width="80" height="80"/><br>
-<h3>🏥 Healthcare AI</h3>
+<h3> Healthcare AI</h3>
 <p><b>Bayesian Neural Networks</b></p>
 <p>Medical predictions with uncertainty quantification</p>
-<p>✅ <b>12+ Hospitals</b><br>✅ <b>50K+ Patients</b><br>✅ <b>FDA Validated</b></p>
+<p> <b>12+ Hospitals</b><br> <b>50K+ Patients</b><br> <b>FDA Validated</b></p>
 <a href="https://github.com/TeraSystemsAI/healthcare-ai">View Repo →(coming soon)</a>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/icon-security.svg" width="80" height="80"/><br>
-<h3>🔒 TrustPDF Security</h3>
+<h3> TrustPDF Security</h3>
 <p><b>Cryptographic Verification</b></p>
 <p>Document integrity & authenticity at scale</p>
-<p>✅ <b>Military Grade</b><br>✅ <b>Zero Trust</b><br>✅ <b>Blockchain</b></p>
+<p> <b>Military Grade</b><br> <b>Zero Trust</b><br> <b>Blockchain</b></p>
 <a href="https://github.com/TeraSystemsAI/trustpdf">View Repo →(coming soon)</a>
 </td>
 <td align="center" width="33%">
@@ -58,17 +58,17 @@
 <h3>🔬 Research Tools</h3>
 <p><b>Bayesian RAG System</b></p>
 <p>Automated literature review & insights</p>
-<p>✅ <b>5+ Publications</b><br>✅ <b>10x Faster</b><br>✅ <b>Multi-Modal</b></p>
+<p> <b>5+ Publications</b><br> <b>10x Faster</b><br> <b>Multi-Modal</b></p>
 <a href="https://github.com/TeraSystemsAI/research-assistant">View Repo → (coming soon)</a>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/icon-nlp.svg" width="80" height="80"/><br>
-<h3>🤖 Enterprise NLP</h3>
+<h3> Enterprise NLP</h3>
 <p><b>Multi-Language Processing</b></p>
 <p>100+ languages, real-time translation</p>
-<p>✅ <b>Fortune 500</b><br>✅ <b>99.9% Uptime</b><br>✅ <b>SOC 2 Compliant</b></p>
+<p> <b>Fortune 500</b><br> <b>99.9% Uptime</b><br> <b>SOC 2 Compliant</b></p>
 <a href="https://github.com/TeraSystemsAI/enterprise-nlp">View Repo →(coming soon</a>
 </td>
 <td align="center" width="33%">
@@ -76,15 +76,15 @@
 <h3>🌐 Web Intelligence</h3>
 <p><b>Real-Time Analytics</b></p>
 <p>Data-driven decision support systems</p>
-<p>✅ <b>1M+ Events/sec</b><br>✅ <b>Global CDN</b><br>✅ <b>Edge Computing</b></p>
+<p> <b>1M+ Events/sec</b><br> <b>Global CDN</b><br> <b>Edge Computing</b></p>
 <a href="https://github.com/TeraSystemsAI/web-intelligence">View Repo →(coming soon)</a>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/icon-generative.svg" width="80" height="80"/><br>
-<h3>🎨 Generative AI</h3>
+<h3> Generative AI</h3>
 <p><b>Content + Code Generation</b></p>
 <p>Creative automation for enterprises</p>
-<p>✅ <b>GPT-4 Powered</b><br>✅ <b>Custom Models</b><br>✅ <b>API Ready</b></p>
+<p> <b>APIs Powered</b><br> <b>Custom Models</b><br> <b>API Ready</b></p>
 <a href="https://github.com/TeraSystemsAI/generative-ai">View Repo →(coming soon)</a>
 </td>
 </tr>
@@ -105,7 +105,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### **NLP & Language**
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFCA28?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/_Transformers-FFCA28?style=for-the-badge)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00B8D4?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -139,23 +139,23 @@
 
 1. **Application of Bayesian Neural Networks in Healthcare: Three Case Studies**  
    *Machine Learning and Knowledge Extraction* • 2024-11-16  
-   📄 DOI: [10.3390/make6040127](https://doi.org/10.3390/make6040127)  
-   🏆 **Impact**: Deployed in 12+ hospitals, affecting 50K+ patient outcomes
+     DOI: [10.3390/make6040127](https://doi.org/10.3390/make6040127)  
+    **Impact**: Deployed in 12+ hospitals, affecting 50K+ patient outcomes
    
 2. **Hybrid Naïve Bayes Models for Scam Detection: Comparative Insights From Email and Financial Fraud**  
    *IEEE Access* • 2025  
    📄 DOI: [10.1109/ACCESS.2025.3569216](https://doi.org/10.1109/ACCESS.2025.3569216)  
-   🏆 **Impact**: 99.7% accuracy in fraud detection, deployed in production systems
+    **Impact**: 99.7% accuracy in fraud detection, deployed in production systems
    
 3. **Enhancing Autonomous Systems with Bayesian Neural Networks: A Probabilistic Framework**
    *Frontiers in Built Environment**, 2025-05-07
-🏆 Impact: Uncertainty quantification for safety-critical applications
-🔗 DOI: https://doi.org/10.3389/fbuil.2025.1597255
+ Impact: Uncertainty quantification for safety-critical applications
+ DOI: https://doi.org/10.3389/fbuil.2025.1597255
    
 4. **A Comparative Study of Optimization Techniques on the Rosenbrock Function**  
    *Open Journal of Optimization* • 2024-11  
-   📄 DOI: [10.4236/ojop.2024.133004](https://doi.org/10.4236/ojop.2024.133004)  
-   🏆 **Impact**: Novel optimization approaches for complex AI model training
+    DOI: [10.4236/ojop.2024.133004](https://doi.org/10.4236/ojop.2024.133004)  
+    **Impact**: Novel optimization approaches for complex AI model training
 
 ### **Research Metrics**
 ![Publications](https://img.shields.io/badge/Publications-15+-28A45E?style=flat&logo=googlescholar)  — *(coming soon)*
@@ -234,15 +234,15 @@ We welcome contributions from the global AI community!
 
 ### **How to Contribute**
 
-1. 🍴 Fork the repository
-2. 🌿 Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. ✅ Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🎉 Open a Pull Request
+1.  Fork the repository
+2.  Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your changes (`git commit -m 'Add AmazingFeature'`)
+4.  Push to the branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
 
 ### **Contribution Areas**
 
-- 🧪 **Research**: Novel architectures, benchmark improvements
+-  **Research**: Novel architectures, benchmark improvements
 - 🐛 **Bug Fixes**: Issue resolution, stability improvements
 - 📖 **Documentation**: Tutorials, examples, API docs
 - 🎨 **Design**: UI/UX improvements, visualizations
@@ -254,15 +254,15 @@ We welcome contributions from the global AI community!
 
 ## 🌐 **OPEN SOURCE PROJECTS**
 
-### **🔥 Featured Repositories**
+### ** Featured Repositories**
 
 | Repository | Description | Stars | Status |
 |-----------|-------------|-------|--------|
-| [healthcare-ai](https://github.com/TeraSystemsAI/healthcare-ai) | Bayesian Neural Networks for medical diagnosis | ![Stars](https://img.shields.io/github/stars/TeraSystemsAI/healthcare-ai?style=social) | ✅ Production |
-| [trustpdf](https://github.com/TeraSystemsAI/trustpdf) | Cryptographic document verification system | ![Stars](https://img.shields.io/github/stars/TeraSystemsAI/trustpdf?style=social) | ✅ Production |
-| [research-assistant](https://github.com/TeraSystemsAI/research-assistant) | Bayesian RAG for scientific literature | ![Stars](https://img.shields.io/github/stars/TeraSystemsAI/research-assistant?style=social) | ✅ Production |
+| [healthcare-ai](https://github.com/TeraSystemsAI/healthcare-ai) | Bayesian Neural Networks for medical diagnosis | ![Stars](https://img.shields.io/github/stars/TeraSystemsAI/healthcare-ai?style=social) |  Production |
+| [trustpdf](https://github.com/TeraSystemsAI/trustpdf) | Cryptographic document verification system | ![Stars](https://img.shields.io/github/stars/TeraSystemsAI/trustpdf?style=social) |  Production |
+| [research-assistant](https://github.com/TeraSystemsAI/research-assistant) | Bayesian RAG for scientific literature | ![Stars](https://img.shields.io/github/stars/TeraSystemsAI/research-assistant?style=social) |  Production |
 | [enterprise-nlp](https://github.com/TeraSystemsAI/enterprise-nlp) | Multi-language NLP toolkit | ![Stars](https://img.shields.io/github/stars/TeraSystemsAI/enterprise-nlp?style=social) | 🚧 Beta |
-| [awesome-intelligent-systems](https://github.com/TeraSystemsAI/awesome-intelligent-systems) | Curated list of AI resources | ![Stars](https://img.shields.io/github/stars/TeraSystemsAI/awesome-intelligent-systems?style=social) | ✅ Active |
+| [awesome-intelligent-systems](https://github.com/TeraSystemsAI/awesome-intelligent-systems) | Curated list of AI resources | ![Stars](https://img.shields.io/github/stars/TeraSystemsAI/awesome-intelligent-systems?style=social) |  Active |
 
 ---
 
@@ -294,7 +294,7 @@ We welcome contributions from the global AI community!
 
 ---
 
-## 💰 **SEEKING SEED FUNDING: $150,000**
+## 💰 **SEEKING SEED FUNDING **
 **Investment Opportunity** - Series Seed Round Open
 - **Use of Funds**: Product development, security infrastructure, engineering support, marketing
 - **Traction**: 12+ hospital partnerships, 50K+ patients served, 15+ publications

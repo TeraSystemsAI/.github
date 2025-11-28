@@ -347,7 +347,7 @@ We welcome contributions from the global AI community!
 
 ### **For Research Collaboration**
 🔬 **Research Lab**: research@terasystems.ai    
-🤝 **Partnerships**: research@terasystems.ai
+🤝 **Partnerships**: partnerships@terasystems.ai
 
 ---
 

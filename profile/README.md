@@ -287,7 +287,7 @@ We welcome contributions from the global AI community!
 🏆 **Achievement**: Enhanced GitHub profile with a comprehensive business model  
 📊 **Growth**: Increased development activity by 50% this quarter  
 🔬 **Research**: 2 new publications submitted for peer review  
-💼 **Business**: Actively seeking $150K seed funding for scale-up  
+💼 **Business**: Actively seeking seed funding for scale-up  
 
 </div>
 

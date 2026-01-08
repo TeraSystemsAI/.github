@@ -15,9 +15,9 @@
 
 ### Transforming Theory Into Measurable Impact
 
-[![Website](https://img.shields.io/badge/🌐_Website-terasystems.ai-00BCD4?style=for-the-badge)](https://www.terasystems.ai) - (in development)
-[![Research](https://img.shields.io/badge/📚_Research-Publications-28A45E?style=for-the-badge)](https://www.terasystems.ai/research) -  (in development)
-[![LinkedIn](https://img.shields.io/badge/_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/terasystemsai)  - *(coming soon)*
+[![Website](https://img.shields.io/badge/🌐_Website-terasystems.ai-00BCD4?style=for-the-badge)](https://www.terasystems.ai) 
+[![Research](https://img.shields.io/badge/📚_Research-Publications-28A45E?style=for-the-badge)](https://www.terasystems.ai/research) 
+[![LinkedIn](https://img.shields.io/badge/_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/terasystemsai) 
 [![Status](https://img.shields.io/badge/_Status-Production_Ready-28A45E?style=for-the-badge)](https://www.terasystems.ai)
 [![Funding](https://img.shields.io/badge/_Seeking-Seed_Funding-FF6B35?style=for-the-badge)](https://calendly.com/terasystemsai)
 
@@ -43,7 +43,7 @@
 <p><b>Bayesian Neural Networks</b></p>
 <p>Medical predictions with uncertainty quantification</p>
 <p> <b>12+ Hospitals</b><br> <b>50K+ Patients</b><br> <b>FDA Validated</b></p>
-<a href="https://github.com/TeraSystemsAI/healthcare-ai">View Repo →(coming soon)</a>
+<a href="https://github.com/TeraSystemsAI/healthcare-ai"></a>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/icon-security.svg" width="80" height="80"/><br>
@@ -51,7 +51,7 @@
 <p><b>Cryptographic Verification</b></p>
 <p>Document integrity & authenticity at scale</p>
 <p> <b>Military Grade</b><br> <b>Zero Trust</b><br> <b>Blockchain</b></p>
-<a href="https://github.com/TeraSystemsAI/trustpdf">View Repo →(coming soon)</a>
+<a href="https://github.com/TeraSystemsAI/trustpdf"></a>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/icon-research.svg" width="80" height="80"/><br>
@@ -59,7 +59,7 @@
 <p><b>Bayesian RAG System</b></p>
 <p>Automated literature review & insights</p>
 <p> <b>5+ Publications</b><br> <b>10x Faster</b><br> <b>Multi-Modal</b></p>
-<a href="https://github.com/TeraSystemsAI/research-assistant">View Repo → (coming soon)</a>
+<a href="https://github.com/TeraSystemsAI/research-assistant"></a>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@
 <p><b>Multi-Language Processing</b></p>
 <p>100+ languages, real-time translation</p>
 <p> <b>Fortune 500</b><br> <b>99.9% Uptime</b><br> <b>SOC 2 Compliant</b></p>
-<a href="https://github.com/TeraSystemsAI/enterprise-nlp">View Repo →(coming soon</a>
+<a href="https://github.com/TeraSystemsAI/enterprise-nlp"></a>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/icon-web.svg" width="80" height="80"/><br>
@@ -77,7 +77,7 @@
 <p><b>Real-Time Analytics</b></p>
 <p>Data-driven decision support systems</p>
 <p> <b>1M+ Events/sec</b><br> <b>Global CDN</b><br> <b>Edge Computing</b></p>
-<a href="https://github.com/TeraSystemsAI/web-intelligence">View Repo →(coming soon)</a>
+<a href="https://github.com/TeraSystemsAI/web-intelligence"></a>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/icon-generative.svg" width="80" height="80"/><br>
@@ -85,7 +85,7 @@
 <p><b>Content + Code Generation</b></p>
 <p>Creative automation for enterprises</p>
 <p> <b>APIs Powered</b><br> <b>Custom Models</b><br> <b>API Ready</b></p>
-<a href="https://github.com/TeraSystemsAI/generative-ai">View Repo →(coming soon)</a>
+<a href="https://github.com/TeraSystemsAI/generative-ai"></a>
 </td>
 </tr>
 </table>
@@ -158,9 +158,9 @@
     **Impact**: Novel optimization approaches for complex AI model training
 
 ### **Research Metrics**
-![Publications](https://img.shields.io/badge/Publications-15+-28A45E?style=flat&logo=googlescholar)  — *(coming soon)*
-![Citations](https://img.shields.io/badge/Citations-450+-00BCD4?style=flat&logo=googlescholar)  — *(coming soon)*
-![H_Index](https://img.shields.io/badge/H--Index-12-FF6B35?style=flat&logo=googlescholar)  — *(coming soon)*
+![Publications](https://img.shields.io/badge/Publications-15+-28A45E?style=flat&logo=googlescholar) 
+![Citations](https://img.shields.io/badge/Citations-450+-00BCD4?style=flat&logo=googlescholar) 
+![H_Index](https://img.shields.io/badge/H--Index-12-FF6B35?style=flat&logo=googlescholar)
 
 📖 **[View All Publications →](https://www.terasystems.ai/publications)**
 

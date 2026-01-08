@@ -326,8 +326,8 @@ We welcome contributions from the global AI community!
 
 ---
 
-🔐 **[Security Policy →](https://github.com/TeraSystemsAI/.github/security/policy)**   — *(coming soon)*
-🐛 **[Report Vulnerability →](https://security.terasystems.ai)**  — *(coming soon)*
+🔐 **[Security Policy →](https://github.com/TeraSystemsAI/.github/security/policy)**
+🐛 **[Report Vulnerability →](https://security.terasystems.ai)**
 
 ---
 
@@ -335,10 +335,9 @@ We welcome contributions from the global AI community!
 
 ### **For Business Inquiries**
 📧 **Email**: admin@terasystems.ai  
-💼 **LinkedIn:** [linkedin.com/company/terasystemsai](https://linkedin.com/company/terasystemsai) — *(coming soon)*
+💼 **LinkedIn:** [linkedin.com/company/terasystemsai](https://linkedin.com/company/terasystemsai)
 🌐 **Website**: [www.terasystems.ai](https://www.terasystems.ai) — currently in active development.
-📅 **Book Demo**: [calendly.com/terasystemsai](https://calendly.com/terasystemsai)  — *(coming soon)*
-
+📅 **Book Call**: [calendly.com/terasystemsai](https://calendly.com/terasystemsai)
 ### **For Technical Support**
 💬 **Discord**: [discord.gg/terasystemsai](https://discord.gg/terasystemsai)  — *(coming soon)*
 📖 **Documentation**: [docs.terasystems.ai](https://docs.terasystems.ai)   — *(coming soon)*

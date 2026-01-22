@@ -18,7 +18,13 @@
 
 [Website](https://www.terasystems.ai) ·
 [Publications](https://www.terasystems.ai/publications.html) ·
+[Philosophy](https://www.terasystems.ai/philosophy.html) ·
+[Accountability](https://www.terasystems.ai/accountability.html) ·
+[Community](https://www.terasystems.ai/community.html) ·
+[Contact](https://www.terasystems.ai/contact.html) ·
 [LinkedIn](https://linkedin.com/company/terasystemsai)
+
+
 
 ---
 

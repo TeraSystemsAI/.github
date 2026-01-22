@@ -17,7 +17,7 @@
 **Research-grounded systems for high-stakes environments**
 
 [Website](https://www.terasystems.ai) ·
-[Research](https://www.terasystems.ai/research) ·
+[Publications](https://www.terasystems.ai/publications.html) ·
 [LinkedIn](https://linkedin.com/company/terasystemsai)
 
 ---

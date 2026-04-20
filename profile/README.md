@@ -161,6 +161,6 @@ TeraSystemsAI LLC is independently developed and operated, with a focus on long-
 
 Building intelligent systems that acknowledge their limitations and remain trustworthy in high-stakes environments.
 
-© 2025 TeraSystemsAI
+© 2025 TeraSystemsAI LLC
 
 </div>

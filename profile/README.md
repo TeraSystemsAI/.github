@@ -11,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/hero-banner.svg" alt="TeraSystemsAI - Constraint-Aware AI Engineering" width="100%"/>
 
-# **TeraSystemsAI**
+# **TeraSystemsAI LLC**
 ## Constraint-Aware AI Engineering
 
 **Research-grounded systems for high-stakes environments**
@@ -32,7 +32,7 @@
 
 ## Mission
 
-TeraSystemsAI designs and engineers AI systems intended for environments where **errors carry real consequences**.
+TeraSystemsAI LLC designs and engineers AI systems intended for environments where **errors carry real consequences**.
 
 Our focus is not on benchmark performance alone, but on **how systems behave under uncertainty, data shift, and operational constraints**. We emphasize transparency, auditability, and explicit tradeoffs in model design and deployment.
 
@@ -142,7 +142,7 @@ Lebede Ngartera
 Ph.D. Applied Mathematics  
 AI Systems Engineer and Researcher
 
-TeraSystemsAI is independently developed and operated, with a focus on long-term system quality rather than short-term optimization.
+TeraSystemsAI LLC is independently developed and operated, with a focus on long-term system quality rather than short-term optimization.
 
 ---
 
@@ -157,7 +157,7 @@ TeraSystemsAI is independently developed and operated, with a focus on long-term
 
 <div align="center">
 
-**TeraSystemsAI — Constraint-Aware AI Engineering**
+**TeraSystemsAI LLC — Constraint-Aware AI Engineering**
 
 Building intelligent systems that acknowledge their limitations and remain trustworthy in high-stakes environments.
 

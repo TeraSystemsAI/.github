@@ -9,7 +9,7 @@
    ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝
 ```
 
-<img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/hero-banner.svg" alt="TeraSystemsAI - Constraint-Aware AI Engineering" width="100%"/>
+<img src="https://raw.githubusercontent.com/TeraSystemsAI LLC/.github/main/assets/hero-banner.svg" alt="TeraSystemsAI LLC - Constraint-Aware AI Engineering" width="100%"/>
 
 # **TeraSystemsAI LLC**
 ## Constraint-Aware AI Engineering
@@ -98,7 +98,7 @@ Our systems are built around the following principles:
 
 ## Research Foundation
 
-TeraSystemsAI is informed by peer-reviewed research in applied mathematics, machine learning, and AI safety-relevant domains.
+TeraSystemsAI LLC is informed by peer-reviewed research in applied mathematics, machine learning, and AI safety-relevant domains.
 
 Selected publications informing this work include:
 
